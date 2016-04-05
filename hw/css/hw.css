@@ -1,0 +1,125 @@
+
+body{
+  width: 1260px;
+    margin: auto;
+      background-color: #C5E0FF;
+}
+
+header{
+  height: 215px;
+  background-color: #395723;
+  border-bottom: black 2px solid;
+}
+
+header img{
+  float: left;
+  margin-left: 85px;
+  height: 215px;
+}
+
+nav{
+  float: left;
+  height: 94px;
+  margin-top: 120px;
+  margin-left: 200px;
+  box-sizing: border-box;
+  border-top:  black 2px solid;
+  border-left:  black 2px solid;
+  display: block;
+}
+
+nav a{
+  background-color: #C5E0B7;
+  text-decoration:none;
+  color: black;
+  font-size: 18pt;
+  padding: 35px 25px;
+  box-sizing: border-box;
+  float: left;
+  display: block;
+}
+
+.body{
+  height: 1000px;
+  background-color: #C5E0B7;
+}
+
+.body > img{
+  width: 1230px;
+  height: 690px;
+  padding: 0px 15px ;
+}
+.body button{
+  margin-left: 240px;
+  margin-top: 130px;
+}
+
+button{
+}
+button img{
+  width: 100px;
+  height: 100px;
+}
+
+.subBody{
+  background-color: #FED964;
+  padding: 57px 0px;
+  height: 180px;
+}
+.subBody img{
+  width: 174px;
+  height: 174px;
+  float: left;
+  margin-left: 125px;
+}
+.subBody div{
+  float: left;
+}
+.Explanation{
+  margin-left: 20px;
+}
+.Explanation p {
+  margin-bottom: 40px;
+  width: 265px;
+}
+
+.Explanation a{
+  text-decoration:none;
+  color: black;
+  width: 100px;
+  height: 100px;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  background-color: #DBDBDB;
+  font-size: 18pt;
+  margin-left: 60px;
+  border-radius: 15%;
+}
+
+footer{
+  padding: 31px 144px;
+  height: 85px;
+  background-color: #C55B11;
+  box-sizing: border-box;
+}
+.link{
+  float: right;
+
+}
+.link img{
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+.A{
+  background-color: #A8D18D;
+}
+.Explanation .B{
+  background-color: #777777;
+}
+.slider{
+  display: none;
+}
+.isActive{
+  display: block;
+}
